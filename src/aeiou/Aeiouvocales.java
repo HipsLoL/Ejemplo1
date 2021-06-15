@@ -9,7 +9,7 @@ package aeiou;
  *
  * @author Estudiante
  */
-public class Aeiou {
+public class Aeiouvocales {
 
     /**
      * @param args the command line arguments
@@ -19,7 +19,7 @@ public class Aeiou {
     }
     
     public void saludar(){
-        System.out.println("hola");
+        System.out.println("hola a todos");
     }
     
 }
